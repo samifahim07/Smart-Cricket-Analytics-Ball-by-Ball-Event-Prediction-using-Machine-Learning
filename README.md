@@ -1,4 +1,4 @@
-# Cricket Boundary Prediction Using Machine Learning
+# IPL Boundary Prediction Using Machine Learning
 
 ## Overview
 
