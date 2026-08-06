@@ -110,6 +110,7 @@ Cricket-Boundary-Prediction/
 ├── smart_analysis.ipynb
 ├── best_model.pkl
 ├── README.md
+└── requirements.txt
 └── dataset/
 ```
 
