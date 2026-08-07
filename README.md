@@ -1,4 +1,4 @@
-# IPL Boundary Prediction Using Machine Learning
+# IPL Boundary Prediction 
 
 ## Overview
 
